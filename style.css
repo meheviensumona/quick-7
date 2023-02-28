@@ -6,14 +6,6 @@ body {
     font-weight: 400 ;
     color: #0f2656;
 }
-/* h1 {
-    margin:0;
-}
-*{
-    margin: 0;
-    padding:0;
-} */
-
 /* common end */
 
 
@@ -148,7 +140,6 @@ span {
     font-size: 60px;
     margin-block-start: 0;
     margin-block-end: 0;
-
 }
 /* end section_3 */
 
@@ -217,18 +208,14 @@ padding: 20px 0px;
  }
  .container_4{
     width: 50%;
-    margin: 0px auto;
-    
+    margin: 0px auto; 
  }
  .f_p{
     color: rgb(240,240,240);
     text-align: center;
-  
  }
  .f_p b {
     letter-spacing: 3px;
     color: white;
-
-    
  }
  /* end footer */
